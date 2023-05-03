@@ -2,4 +2,5 @@
 Created with CodeSandbox
 
 The point of this exercise is to create multiple modals that are placed in random positions. 
-One can close any modal. 
+
+Closing a modal will close that same modal without affecting other modals. 
